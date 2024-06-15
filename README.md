@@ -1,6 +1,6 @@
 # Price Feed Farcaster Frame
 
-This is a Farcaster Frame for dynamic and interactive price feed. This project aims to provide latest price updates for Ethereum (ETH) and Bitcoin (BTC) in an engaging and visually appealing manner.
+This is a Farcaster Frame for dynamic and interactive price feed. The frame will provide latest price updates for Ethereum (ETH) and Bitcoin (BTC) in an engaging and visually appealing manner.
 
 ## Project Overview
 
