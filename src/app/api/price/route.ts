@@ -28,7 +28,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
                 property="fc:frame:post_url"
                 content=${envVars.hostUrl}/api/price
               />
-              <meta property="fc:frame:button:1" content="Get Price" />
+              <meta property="fc:frame:button:1" content="Refresh Price" />
             </head>
             <body>
               <p>"Price Feed Farcaster Frame</p>
